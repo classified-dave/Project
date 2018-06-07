@@ -1,0 +1,395 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"paddleWidth"
+			],
+			[
+				"draw",
+				"drawPaddle"
+			],
+			[
+				"ba",
+				"ballRadius"
+			],
+			[
+				"d",
+				"dy"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"resl",
+				"result"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"has",
+				"hashedPwd"
+			],
+			[
+				"sig",
+				"signup"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"h",
+				"header\tTag"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"m",
+				"makeColorANumber"
+			],
+			[
+				"l",
+				"let"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"s",
+				"selectedColor"
+			],
+			[
+				"click",
+				"clickCount"
+			],
+			[
+				"g",
+				"guess"
+			],
+			[
+				"mys",
+				"mysql_query"
+			],
+			[
+				"my",
+				"mysql_connect"
+			],
+			[
+				"b",
+				"button\tTag"
+			],
+			[
+				"i",
+				"input\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"c",
+				"cirkel"
+			],
+			[
+				"get",
+				"getElementsByClassName"
+			],
+			[
+				"functi",
+				"function"
+			],
+			[
+				"ci",
+				"cirkelArray"
+			],
+			[
+				"ht",
+				"https"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"li",
+				"link\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/248087/Desktop/Documents/School @2/USB webserver/root/PONG/pong.php",
+		"/C/Users/248087/Desktop/Documents/School @2/USB webserver/root/Login/info.php",
+		"/C/Users/248087/Desktop/Documents/School @2/USB webserver/root/Re-Mastermind/startbootstrap-bare-gh-pages/index.html",
+		"/C/Users/248087/Desktop/Documents/School @2/USB webserver/root/Re-Mastermind/startbootstrap-bare-gh-pages/MMcss.css",
+		"/C/Users/248087/Desktop/Documents/School @2/USB webserver/root/Re-Mastermind/startbootstrap-bare-gh-pages/JQmm.js",
+		"/C/Users/248087/Desktop/Documents/School @2/USB webserver/root/Login/INC/signup.inc.php",
+		"/C/Users/248087/Desktop/Documents/School @2/USB webserver/root/Re-Mastermind/startbootstrap-bare-gh-pages/gameMM.html",
+		"/C/Users/248087/Desktop/Documents/School @2/USB webserver/root/Login/INC/DBH.php",
+		"/C/Users/248087/Desktop/Documents/School @2/USB webserver/root/Login/signUP.php",
+		"/C/Users/248087/Desktop/Documents/School @2/USB webserver/root/Login/footer.php",
+		"/C/Users/248087/Desktop/Documents/School @2/USB webserver/root/Login/login.php",
+		"/C/Users/248087/Desktop/Documents/School @2/USB webserver/root/Login/header.php",
+		"/C/Users/248087/Desktop/Documents/School @2/USB webserver/root/Login/logincss.css",
+		"/C/Users/248087/Desktop/Documents/School @2/USB webserver/root/Re-Mastermind/startbootstrap-bare-gh-pages/siteCSS.css",
+		"/C/Users/248087/Desktop/Documents/School @2/USB webserver/root/portfolio-mastermindsite/main.css",
+		"/C/Users/248087/Desktop/Documents/School @2/USB webserver/root/portfolio-mastermindsite/cssindex.css",
+		"/C/Users/248087/Desktop/Documents/School @2/USB webserver/root/portfolio-mastermindsite/Welcome_portfolio.html",
+		"/C/Users/248087/Desktop/Documents/School @2/USB webserver/root/portfolio-mastermindsite/mastermind.js",
+		"/C/Users/248087/Desktop/Documents/School @2/USB webserver/root/portfolio-mastermindsite/mastermindGame.html",
+		"/C/Users/248087/Desktop/Documents/School @2/USB webserver/root/portfolio-mastermindsite/portfolio_home.html",
+		"/C/Users/248087/Desktop/Documents/School @2/USB webserver/root/Re-Mastermind/index.html",
+		"/C/Users/248087/Desktop/Documents/School @2/USB webserver/root/portfolio-mastermindsite/style.css",
+		"/C/Users/248087/Desktop/Documents/School @2/USB webserver/root/MastermindZZ/mastermind.js",
+		"/C/Users/248087/Desktop/Documents/School @2/USB webserver/root/MastermindZZ/main.css",
+		"/C/Users/248087/Desktop/Documents/School @2/USB webserver/root/MastermindZZ/mastermindGame.html",
+		"/C/Users/248087/Desktop/Documents/School @2/USB webserver/root/portfolio/portfolio_home.html",
+		"/C/Users/248087/Desktop/Documents/School @2/USB webserver/root/portfolio-mastermindsite/index.html",
+		"/C/Users/248087/Desktop/Documents/School @2/USB webserver/root/MastermindZZ/index.html",
+		"/C/Users/248087/Desktop/Documents/School @2/USB webserver/root/Login/DBH.php",
+		"/C/Users/248087/Desktop/Documents/School @2/USB webserver/root/Login/1Login.php",
+		"/C/Users/248087/Desktop/Documents/School @2/USB webserver/root/Login/login.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "breaker.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\248087\\Desktop\\Documents\\School @2\\USB webserver\\root\\Login\\DBH.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
